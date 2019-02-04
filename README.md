@@ -1,6 +1,6 @@
 # Chatkit self-destructing messages demo
 
-Send self-destructing messages in a chatroom with Vue.js and Chatkit. Tutorial:
+Send self-destructing messages in a chatroom with Vue.js and Chatkit. Tutorial: https://pusher.com/tutorials/vue-self-destructing-chat
 
 ## Getting Started
 
